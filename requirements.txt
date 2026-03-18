@@ -1,0 +1,6 @@
+streamlit
+insightface
+opencv-python-headless
+pillow
+numpy
+scikit-learn
