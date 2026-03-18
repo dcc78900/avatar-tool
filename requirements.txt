@@ -1,5 +1,6 @@
 streamlit
-insightface
+insightface==0.7.3
+onnxruntime
 opencv-python-headless
 pillow
 numpy
